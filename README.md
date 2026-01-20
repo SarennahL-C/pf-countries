@@ -127,6 +127,12 @@ Final visualisations included labelled clusters and a summary table listing all 
 
 ---
 
+### Requirements
+
+Install the required Python dependencies with: `pip install -r requirements.txt`
+
+---
+
 ### Why this project belongs in my portfolio
 
 Clustering problems rarely have a single correct solution, which makes interpretation as important as implementation.
