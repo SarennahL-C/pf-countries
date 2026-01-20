@@ -135,9 +135,7 @@ Install the required Python dependencies with: `pip install -r requirements.txt`
 
 ### Why this project belongs in my portfolio
 
-Clustering problems rarely have a single correct solution, which makes interpretation as important as implementation.
-
-This project demonstrates my ability to:
+Clustering problems rarely have a single correct solution, which makes interpretation as important as implementation. This project demonstrates my ability to:
 - evaluate whether clustering is appropriate for a dataset
 - justify the choice of the number of clusters
 - interpret results thoughtfully rather than mechanically
